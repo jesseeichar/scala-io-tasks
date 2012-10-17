@@ -4,8 +4,8 @@ import scalax.io._
 import scalax.file._
 
 /**
- * 
+ * Similar functionality as the unix find command line tool
  */
-object extends App {
+object Find extends App {
   
 }
