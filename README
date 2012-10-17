@@ -1,0 +1,1 @@
+Each .scala file in the sources represents a task to perform using scala-io.  Implement each task using scala-io and test by running the task
