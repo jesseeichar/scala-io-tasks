@@ -1,5 +1,4 @@
 scalaVersion := "2.10.0-RC1"
 
 libraryDependencies ++= Seq(
-  "com.github.scala-incubator.io" % "scala-io-file_2.10.0-RC1" % "0.4.1", 
-  "javax.transaction" % "jta" % "1.0.1B")
+  "com.github.scala-incubator.io" % "scala-io-file_2.10.0-RC1" % "0.4.1" exclude ("javax.transaction", "jta"))
